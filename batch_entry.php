@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>Batch Entry</title>
+        <title>For Batch Entry Button</title>
         <meta name="description" content="" />
         <meta name="keywords" content="" />
         <link href="/css/core.css" rel="stylesheet" type="text/css" />
